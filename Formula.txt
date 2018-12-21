@@ -1,0 +1,7 @@
+# Use "Nh = Ns/(a*(Ni+No))" this formula to calculate the number of layers
+# Where,
+# Nh = No. Hidden Layers
+# Ns = No of samples in training dataset
+# No = No. of output neurons
+# Ni = No. of input neurons
+# a = arbitary value (usually 2-10)
